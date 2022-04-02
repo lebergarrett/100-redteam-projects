@@ -2,6 +2,8 @@
 <p align="center"> 
     <img src="images/red.png" alt="">
 </p>
+
+Copied from https://github.com/kurogai/100-redteam-projects
                                                                        
 # 100  Red Team Projects for Pentesters and Network Managers
 
